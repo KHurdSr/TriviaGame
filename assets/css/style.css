@@ -1,0 +1,15 @@
+body{
+	background-image: url("../images/newedition.gif");
+	text-align: center;
+}
+
+.text-muted{
+    color: purple;
+
+}
+.last-seconds{
+    color: red;
+  }
+  .option{
+    margin: 5px;
+  }
